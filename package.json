@@ -1,0 +1,25 @@
+{
+  "name": "visual_studio_code",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmbraExcogitatorius/flexbox-course.git"
+  },
+  "author": "UmbraExcogitatorius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmbraExcogitatorius/flexbox-course/issues"
+  },
+  "homepage": "https://github.com/UmbraExcogitatorius/flexbox-course#readme"
+}
